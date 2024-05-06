@@ -1,0 +1,1 @@
+# calculadora_De_Resistencias
